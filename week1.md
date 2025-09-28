@@ -12,7 +12,7 @@
   - https://pages.github.com/
 
 ## Estimated Hours
-Approximately 45 hours
+Approximately 5 hours
 
 ## Content Insights
 This week, I re-learned that HTML provides the structure and content of a website, while CSS (and frameworks like Bootstrap) control the visual styling and layout. Using Bootstrap’s grid system made it much easier to create a responsive layout without manually writing all the CSS from scratch. I also realized that images must be properly referenced relative to the file paths in the project folder. GitHub Pages is a simple way to host static websites and view changes live, which is very useful for testing and submission. Overall, this practical reinforced the importance of separating structure (HTML), style (CSS), and content (text/images) in web development.
