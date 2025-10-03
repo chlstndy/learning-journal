@@ -10,7 +10,7 @@
 * Tested live updates to ensure changes reflected correctly on the site.
 * Consulted WordPress documentation and tutorials:
 * WordPress.org: 
-   * [https://wordpress.org/support/] (https://wordpress.org/support/)
+   * https://wordpress.org/support/
 * YouTube tutorials for beginner WordPress setup and customization.
 
 ## Estimated Hours
