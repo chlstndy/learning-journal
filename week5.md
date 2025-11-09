@@ -1,7 +1,7 @@
 week5.md 
 
 
-# Practical 5: WordPress Child Theme
+# Week 5 - Practical 5: WordPress Child Theme
 
 ## Learning Activities & Resources
 
