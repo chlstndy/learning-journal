@@ -1,6 +1,6 @@
 week4.md 
 
-# Week 4 — Practical 3: WordPress CMS (Local Development)
+# Week 4 — Practical 4: WordPress CMS (Local Development)
 
 ## Learning Activities & Resources  
 - Installed and configured XAMPP to host WordPress locally.  
