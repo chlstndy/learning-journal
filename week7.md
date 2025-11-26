@@ -7,10 +7,10 @@ For this practical, I focused on understanding how PHP behaves when mixed with H
 To avoid repeating the same layout, I used include to pull in a shared header and footer on both pages. Even though I didn’t run PHP locally on my Mac, I still completed all the code required for the prac and made sure each feature was included in its own file.
 
 ## Estimated Hours
-~1.5 hours (writing PHP files, checking through requirements, organising project structure)
+~1.5 hours
 
 ## Content Insights
-Doing this prac helped me understand how PHP actually runs behind the scenes. Compared to just writing pure HTML, PHP gives a lot more control because it can change what appears on the page depending on variables, conditions, or loops.
+Doing this practical helped me understand how PHP actually runs behind the scenes. Compared to just writing pure HTML, PHP gives a lot more control because it can change what appears on the page depending on variables, conditions, or loops.
 The part that stood out the most was how include works. It instantly made the project feel cleaner and more “real,” because it imitates how actual websites reuse navigation bars, headers, and footers. Writing my own function also helped reinforce the idea of keeping logic reusable instead of repeating it.
 Overall, it was a simple task, but it gave me a clearer picture of how server-side logic connects to the front end.
 
